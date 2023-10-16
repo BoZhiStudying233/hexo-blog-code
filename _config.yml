@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 博智同学的小屋
+title: 博智同学的小屋!
 subtitle: ''
 description: ''
 keywords:
-author: BoZhi
+author: 博智
 language: zh-Hans
 timezone: ''
 
@@ -17,7 +17,7 @@ url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_index: true # Set to false to remove trailing 'index.ht`ml' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: CNAME
 
 # Writing
 new_post_name: :title.md # File name of new posts
