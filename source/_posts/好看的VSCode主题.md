@@ -19,7 +19,7 @@ tags:
 ![](https://bozhiblogimage.oss-cn-beijing.aliyuncs.com/pic/VSCode-MaterialThemeIcons1.png)
 
 ## 修改注释颜色
-游戏我们改变了主题，注释变得不太明显
+由于我们改变了主题，注释变得不太明显
 ![](https://bozhiblogimage.oss-cn-beijing.aliyuncs.com/pic/VSCode-CommentsObvious.png)
 这对于一些多注释的程序可能不太友好，但我们可以手动更改注释颜色
 具体步骤为：打开字体的setting.json文件，将以下代码添加到最后一个"}"的前面

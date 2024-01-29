@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -104,4 +104,5 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:BoZhiStudying233/BoZhiStudying233.github.io.git
+  #git@bozhistu.cn:/www/repo/hexo.git
   branch: main
